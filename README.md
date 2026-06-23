@@ -26,8 +26,8 @@ Give it a project idea. Get back a complete system design package.
 
 ```bash
 # 1. Install the skill (user level — available across all projects)
-git clone https://github.com/AbdallaElradi/senior-saad.git
-cp -r senior-saad ~/.claude/skills/senior-saad
+git clone https://github.com/a-elradi/senior-saad-skill
+cp -r senior-saad-skill ~/.claude/skills/senior-saad-skill
 
 # 2. Open Claude Code in any project
 claude
