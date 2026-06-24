@@ -69,7 +69,7 @@ Design system · Key screens · Component library
 06 — PROMPT ENGINEERING PACKAGE 📝
 SAAD-[Name]-PACKAGE.md — ready for Claude Code
 
-
+```
 ---
 
 ##  Component Sources
