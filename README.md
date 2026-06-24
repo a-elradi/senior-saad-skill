@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏗️ Senior SAAD
+#  Senior SAAD 🏗️
 ### System Architecture & Design Intelligence
 **Claude Code Skill — v2.0**
 
@@ -22,7 +22,7 @@ Give it a project idea. Get back a complete system design package.
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ```bash
 # 1. Install the skill (user level — available across all projects)
@@ -42,39 +42,39 @@ SAAD — I want to build a marketplace for freelancers
 
 ---
 
-## 🔄 The 6-Phase Pipeline
+##  The 6-Phase Pipeline
 
 ```
  ┌─────────────────────────────────────────────────────────┐
  │                   SAAD PIPELINE                         │
  ├──────┬──────────────────────────────────────────────────┤
- │  01  │  🧠 COUNCIL REVIEW                               │
+ │  01  │   COUNCIL REVIEW    🧠                            │
  │      │  5 advisors stress-test your idea               │
  │      │  Architect · Strategist · Security · UX · Devil │
  ├──────┼──────────────────────────────────────────────────┤
- │  02  │  🏗️ SYSTEM ARCHITECTURE                          │
+ │  02  │   SYSTEM ARCHITECTURE    🏗️                     │
  │      │  Tech stack · Mermaid diagrams · DB schema       │
  │      │  API map · Component tree · Security plan        │
  ├──────┼──────────────────────────────────────────────────┤
- │  03  │  📊 SUMMARY & CONFIRMATION                       │
+ │  03  │   SUMMARY & CONFIRMATION    📊                   │
  │      │  ⛔ SAAD stops here — asks for your input        │
  │      │  Colors · Style direction · Add/remove features  │
  ├──────┼──────────────────────────────────────────────────┤
- │  04  │  🎨 UI/UX DESIGN SYSTEM                          │
+ │  04  │   UI/UX DESIGN SYSTEM    🎨                      │
  │      │  Color tokens · Typography · Animations          │
  │      │  KokonutUI + 21st.dev + Anime.js components      │
  ├──────┼──────────────────────────────────────────────────┤
- │  05  │  🎭 FIGMA MOCKUP                                 │
+ │  05  │   FIGMA MOCKUP  🎭                               │
  │      │  Design system · Key screens · Component library │
  ├──────┼──────────────────────────────────────────────────┤
- │  06  │  📝 PROMPT ENGINEERING PACKAGE                   │
+ │  06  │   PROMPT ENGINEERING PACKAGE   📝                │
  │      │  SAAD-[Name]-PACKAGE.md — ready for Claude Code  │
  └──────┴──────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎨 Component Sources
+##  Component Sources
 
 | Library | URL | Used For |
 |---------|-----|----------|
@@ -84,7 +84,7 @@ SAAD — I want to build a marketplace for freelancers
 
 ---
 
-## 🧩 Skills Applied
+##  Skills Applied
 
 SAAD orchestrates all your installed UI/UX skills automatically:
 
@@ -128,7 +128,7 @@ senior-saad/
 
 ---
 
-## 📦 Install Options
+##  Install Options
 
 **Option A — User Level (recommended)**
 ```bash
@@ -149,7 +149,7 @@ git clone https://github.com/AbdallaElradi/senior-saad.git "$HOME\.claude\skills
 
 ---
 
-## 🔗 Related Skills
+##  Related Skills 🔗
 
 If you don't have these UI/UX skills installed yet, SAAD works best with:
 
@@ -171,7 +171,7 @@ cp -r ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max ~/.claude/skills/
 
 ---
 
-## 📄 License
+##  License 
 
 MIT — Free to use, modify, and distribute.
 
@@ -179,8 +179,7 @@ MIT — Free to use, modify, and distribute.
 
 <div align="center">
 
-**Senior SAAD v2.0**
+**Senior SAAD **
 *Built by [Abdalla Elradi](https://github.com/AbdallaElradi)*
-*Zero tolerance for generic output.*
 
 </div>
