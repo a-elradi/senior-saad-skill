@@ -45,32 +45,30 @@ SAAD — I want to build a marketplace for freelancers
 ##  The 6-Phase Pipeline
 
 ```
- ┌─────────────────────────────────────────────────────────┐
- │                   SAAD PIPELINE                         │
- ├──────┬──────────────────────────────────────────────────┤
- │  01  │   COUNCIL REVIEW    🧠                            │
- │      │  5 advisors stress-test your idea               │
- │      │  Architect · Strategist · Security · UX · Devil │
- ├──────┼──────────────────────────────────────────────────┤
- │  02  │   SYSTEM ARCHITECTURE    🏗️                     │
- │      │  Tech stack · Mermaid diagrams · DB schema       │
- │      │  API map · Component tree · Security plan        │
- ├──────┼──────────────────────────────────────────────────┤
- │  03  │   SUMMARY & CONFIRMATION    📊                   │
- │      │  ⛔ SAAD stops here — asks for your input        │
- │      │  Colors · Style direction · Add/remove features  │
- ├──────┼──────────────────────────────────────────────────┤
- │  04  │   UI/UX DESIGN SYSTEM    🎨                      │
- │      │  Color tokens · Typography · Animations          │
- │      │  KokonutUI + 21st.dev + Anime.js components      │
- ├──────┼──────────────────────────────────────────────────┤
- │  05  │   FIGMA MOCKUP  🎭                               │
- │      │  Design system · Key screens · Component library │
- ├──────┼──────────────────────────────────────────────────┤
- │  06  │   PROMPT ENGINEERING PACKAGE   📝                │
- │      │  SAAD-[Name]-PACKAGE.md — ready for Claude Code  │
- └──────┴──────────────────────────────────────────────────┘
-```
+ SAAD PIPELINE
+
+01 — COUNCIL REVIEW 🧠
+5 advisors stress-test your idea
+Architect · Strategist · Security · UX · Devil
+
+02 — SYSTEM ARCHITECTURE 🏗️
+Tech stack · Mermaid diagrams · DB schema
+API map · Component tree · Security plan
+
+03 — SUMMARY & CONFIRMATION 📊
+⛔ SAAD stops here — asks for your input
+Colors · Style direction · Add/remove features
+
+04 — UI/UX DESIGN SYSTEM 🎨
+Color tokens · Typography · Animations
+KokonutUI + 21st.dev + Anime.js components
+
+05 — FIGMA MOCKUP 🎭
+Design system · Key screens · Component library
+
+06 — PROMPT ENGINEERING PACKAGE 📝
+SAAD-[Name]-PACKAGE.md — ready for Claude Code
+
 
 ---
 
